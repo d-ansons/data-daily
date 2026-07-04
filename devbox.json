@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.17.5/.schema/devbox.schema.json",
   "packages": [
     "python@3.12",
-    "uv@latest"
+    "uv@latest",
+    "terraform@latest"
   ],
   "shell": {
     "init_hook": [

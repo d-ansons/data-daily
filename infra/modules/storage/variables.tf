@@ -15,13 +15,13 @@ variable "location" {
 
 variable "account_tier" {
   default     = "Standard"
-  description = "value"
+  description = "Storage tier of the account"
   type        = string
 }
 
 variable "account_replication_type" {
   default     = "LRS"
-  description = "value"
+  description = "Account replication type"
   type        = string
 }
 

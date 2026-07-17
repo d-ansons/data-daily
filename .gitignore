@@ -1,0 +1,13 @@
+
+# Devbox
+.devbox
+
+# Terraform
+*.tfvars
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+
+# venv
+.venv
+

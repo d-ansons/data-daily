@@ -3,7 +3,8 @@
   "packages": [
     "python@3.12",
     "uv@latest",
-    "terraform@latest"
+    "terraform@latest",
+    "azure-cli@latest"
   ],
   "shell": {
     "init_hook": [

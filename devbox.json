@@ -4,7 +4,9 @@
     "python@3.12",
     "uv@latest",
     "terraform@latest",
-    "azure-cli@latest"
+    "azure-cli@latest",
+    "nodejs@latest",
+    "pnpm@latest"
   ],
   "shell": {
     "init_hook": [

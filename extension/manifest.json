@@ -4,5 +4,8 @@
   "version": "0.1.0",
   "action": {
     "default_popup": "dist/popup.html"
-  }
+  },
+  "host_permissions": [
+    "https://learn.microsoft.com/*"
+  ]
 }
